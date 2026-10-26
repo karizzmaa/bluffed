@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/light.png" alt="BLUFFED Logo" width="400" />
+  <img src="assets/logo.png" alt="BLUFFED Logo" width="400" />
 </p>
 
 <h1 align="center">BLUFFED</h1>

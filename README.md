@@ -1,2 +1,3 @@
-# bluffed
-A daily deduction game where the truth is hidden among lies.
+<div align="center" style="margin-top: 40px;">
+  <img src="/assets/light.png" width="50%" />
+</div>

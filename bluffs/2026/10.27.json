@@ -1,0 +1,30 @@
+{
+  "day": 2,
+  "date": "2026-10-27",
+  "topic": "Landmarks",
+  "clues": [
+    {
+      "id": 1,
+      "text": "Gustave Eiffel's company designed and built it.",
+      "isLie": false
+    },
+    {
+      "id": 2,
+      "text": "It was completed in 1889 for a World's Fair.",
+      "isLie": false
+    },
+    { "id": 3, "text": "It stands in the middle of Rome.", "isLie": true },
+    { "id": 4, "text": "It is made of wrought iron.", "isLie": false },
+    {
+      "id": 5,
+      "text": "It was always intended to stay up permanently.",
+      "isLie": true
+    },
+    {
+      "id": 6,
+      "text": "It is repainted roughly every seven years.",
+      "isLie": false
+    }
+  ],
+  "answer": "Eiffel Tower"
+}

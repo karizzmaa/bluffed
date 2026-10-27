@@ -1,0 +1,30 @@
+{
+  "day": 3,
+  "date": "2026-10-28",
+  "topic": "Animals",
+  "clues": [
+    { "id": 1, "text": "It has three hearts.", "isLie": false },
+    { "id": 2, "text": "It has a hard bony skeleton.", "isLie": true },
+    {
+      "id": 3,
+      "text": "Its blood is blue thanks to copper-based hemocyanin.",
+      "isLie": false
+    },
+    {
+      "id": 4,
+      "text": "Most species live for twenty years or more.",
+      "isLie": true
+    },
+    {
+      "id": 5,
+      "text": "It can squeeze through any gap larger than its beak.",
+      "isLie": false
+    },
+    {
+      "id": 6,
+      "text": "Most of its neurons are located in its arms.",
+      "isLie": false
+    }
+  ],
+  "answer": "Octopus"
+}

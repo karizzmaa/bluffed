@@ -1,1 +1,34 @@
-
+{
+  "day": 1,
+  "date": "2026-10-26",
+  "topic": "Video Games",
+  "clues": [
+    {
+      "id": 1,
+      "text": "This game was created by a Swedish developer.",
+      "isLie": false
+    },
+    {
+      "id": 2,
+      "text": "Its first public version was released in 2009.",
+      "isLie": false
+    },
+    {
+      "id": 3,
+      "text": "It was originally developed by Nintendo.",
+      "isLie": true
+    },
+    {
+      "id": 4,
+      "text": "Its world is primarily made up of blocks.",
+      "isLie": false
+    },
+    { "id": 5, "text": "It has no Survival mode.", "isLie": true },
+    {
+      "id": 6,
+      "text": "Its original creator was named Markus Persson.",
+      "isLie": false
+    }
+  ],
+  "answer": "Minecraft"
+}

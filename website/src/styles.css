@@ -13,7 +13,7 @@
   --grain: 0.16;
   --grain-blend: multiply;
   color-scheme: light;
-
+}
 [data-theme='dark'] {
   --bg: #26262a;
   --ink: #efeff3;

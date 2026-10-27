@@ -5,9 +5,9 @@
 <h1 align="center">BLUFFED</h1>
 
 <p align="center">
-  <strong>A daily puzzle game about separating fact from fiction.</strong>
+  <strong>A daily deduction game where the truth is hidden among lies.</strong>
   <br />
-  <em>Six clues. Three lies. One mystery.</em>
+  <em>Six clues. Two lies. One mystery.</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About
 
-BLUFFED is a free, browser-based puzzle game where players must identify a mystery by separating truthful clues from deliberate lies. Test your knowledge, spot misleading information, and uncover the truth.
+BLUFFED is a free, browser-based puzzle game where players must identify a mystery word by separating 4 truthful clues from 2 deliberate lies. Test your knowledge, spot misleading information, and uncover the truth.
 
 🚧 **Currently a work in progress.**
 

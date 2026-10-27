@@ -1,0 +1,21 @@
+{
+  "name": "bluffed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A daily word game where 2 of the 6 clues are lies.",
+  "license": "MIT",
+  "packageManager": "pnpm@12.15.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "pnpm --filter website dev",
+    "build": "pnpm --filter website build",
+    "preview": "pnpm --filter website preview",
+    "typecheck": "pnpm --filter website typecheck",
+    "validate": "node scripts/validate-bluffs.mjs"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}

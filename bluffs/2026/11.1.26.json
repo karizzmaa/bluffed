@@ -1,0 +1,38 @@
+{
+  "day": 6,
+  "date": "2026-11-01",
+  "topic": "Space Exploration",
+  "clues": [
+    {
+      "id": 1,
+      "text": "It was launched 16 days after its identical twin.",
+      "isLie": false
+    },
+    {
+      "id": 2,
+      "text": "Its original mission was designed to last approximately five years.",
+      "isLie": false
+    },
+    {
+      "id": 3,
+      "text": "It captured the first image showing Earth and the Moon together in a single frame.",
+      "isLie": false
+    },
+    {
+      "id": 4,
+      "text": "Its trajectory was deliberately altered to allow it to visit Uranus and Neptune.",
+      "isLie": true
+    },
+    {
+      "id": 5,
+      "text": "It carries a gold-plated copper disc containing greetings in 55 languages.",
+      "isLie": false
+    },
+    {
+      "id": 6,
+      "text": "It became the most distant human-made object in existence before the end of the 20th century.",
+      "isLie": false
+    }
+  ],
+  "answer": "Voyager 1"
+}

@@ -1,0 +1,38 @@
+{
+  "day": 7,
+  "date": "2026-11-02",
+  "topic": "The Human Body",
+  "clues": [
+    {
+      "id": 1,
+      "text": "The human body has 206 bones in a typical adult.",
+      "isLie": false
+    },
+    {
+      "id": 2,
+      "text": "The liver is the largest internal organ in the human body.",
+      "isLie": false
+    },
+    {
+      "id": 3,
+      "text": "Human red blood cells contain a nucleus.",
+      "isLie": true
+    },
+    {
+      "id": 4,
+      "text": "The stomach produces hydrochloric acid to help digest food.",
+      "isLie": false
+    },
+    {
+      "id": 5,
+      "text": "The human heart has five chambers.",
+      "isLie": true
+    },
+    {
+      "id": 6,
+      "text": "The smallest bone in the human body is located in the ear.",
+      "isLie": false
+    }
+  ],
+  "answer": "The Human Body"
+}

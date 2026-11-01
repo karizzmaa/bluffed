@@ -16,7 +16,7 @@
     {
       "id": 3,
       "text": "It captured the first image showing Earth and the Moon together in a single frame.",
-      "isLie": false
+      "isLie": true
     },
     {
       "id": 4,
@@ -25,12 +25,12 @@
     },
     {
       "id": 5,
-      "text": "It carries a gold-plated copper disc containing greetings in 55 languages.",
+      "text": "It carries a golden record containing greetings in multiple languages.",
       "isLie": false
     },
     {
       "id": 6,
-      "text": "It became the most distant human-made object in existence before the end of the 20th century.",
+      "text": "It became the most distant human-made object from Earth.",
       "isLie": false
     }
   ],
